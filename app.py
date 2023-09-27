@@ -1,5 +1,3 @@
-# 加油！
-# 相信你可以学会的！
 import requests
 import re
 import json
