@@ -1,2 +1,4 @@
-# bili_video_download
-这是一串用于爬取bilibili视频或者音频的代码
+# 这是一串用于获取bilibili视频或者音频的代码
+
+这是我在github上上传的第一个repositories，旨在熟悉一下这个网站的功能和用法。
+欢迎大家告诉我github的一些使用技巧以及注意事项，我是一名学生，希望可以在这里学到更多！谢谢!
